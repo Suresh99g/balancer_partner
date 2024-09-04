@@ -1,0 +1,30 @@
+name: balancer_partner
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+   - assets/Group 1.png
+   - assets/Hire 1.png
+   - assets/Check List 1.png
+   - assets/Career 1.png
+   - assets/2300_2-10 1.png
+   - assets/Group.png
+   - assets/Check List 2.png
+    
+
